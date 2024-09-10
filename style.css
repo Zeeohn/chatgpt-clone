@@ -94,3 +94,14 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+/* Side bar styling */
+.icon-text img{
+  width: 50px;
+
+}
+
+body{
+  background-color: rgb(173, 168, 168);
+}
+/* Side bar styling end here */
